@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-Projetos desenvolvidos em equipe durante o curso de Engenharia de Software, com foco em aplicação prática de conceitos como modelagem, arquitetura e desenvolvimento back-end. Atualmente continuo evoluindo meus conhecimentos na área.
+Projetos desenvolvidos em equipe durante o curso de Engenharia de Software, com foco em aplicação prática de conceitos como modelagem, arquitetura e desenvolvimento back-end e front-end. Atualmente continuo evoluindo meus conhecimentos na área.
 
 - [Cadastron](https://github.com/HenryPiozziPuc/Projeto_Integrador2024): Sistema de gestão e controle de estoque desenvolvido para auxiliar no cadastro, organização e monitoramento de produtos.
 - [PUC BET](https://github.com/enzo-garofalo/PI2--Time-1): Plataforma de apostas simuladas para criação e aceitação de apostas em eventos futuros.
