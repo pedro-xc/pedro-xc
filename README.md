@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="center">Estudante de Engenharia de Software na PUC-Campinas | Co-fundador da Liga de TI | Desenvolvendo soluções e aprendendo continuamente.</p>
+<p align="center">Estudante de Engenharia de Software na PUC-Campinas | Co-fundador da Liga de TI | Aprendendo e construindo.</p>
 
 ###
 
